@@ -1,0 +1,31 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+.conda/
+.dotnet/
+.idlerc/
+3D Objects/
+AppData/
+Box/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat*
+ntuser.ini
+source/
